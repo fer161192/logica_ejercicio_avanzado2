@@ -3,6 +3,7 @@
 (★★★★) Hay 4 estudiantes: Carrie, Erma, Ora und Tracy. Todos ellos estudian una carrera de grado y están becados (todos tienen becas distintas y estudian distintas carreras). El objetivo es identificar cual es la beca que recibe cada estudiante y cual es la carrera de grado que estudia a partir de las siguientes pistas:
 
 Las becas disponibles son: 25000, 30000, 35000 and 40000 USD.
+
 Las carreras disponibles son: Astronomia, Ingles, Filosofía y Física.
 El estudiante que estudia Astronomía tiene una beca menor que la de Ora.
 Ora estudia Ingles o Filosofía
